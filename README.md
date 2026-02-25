@@ -11,3 +11,17 @@ First Practice Repository
 - [ADDITIONAL INFORMATION](#Additional-information)
 
 ## Project Title
+
+*Hello World Sample - My First Repository*
+
+## Description
+
+This can be used as a sample format for future projects
+
+## Tools Used
+
+Any tools used on the respective project can be listed here
+
+## Files Used
+
+### Any files used for the project should be listed here
