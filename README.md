@@ -1,4 +1,13 @@
 # Hello_World
 First Practice Repository
-My name is Derek Phillips and I am studying Business Analytics & Information Systems at the University of Iowa.
-I am also studying music as a brass musician.
+
+## Table of Contents
+
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [TOOLS USED](#Tools-Used)
+- [FILES USED](#Files-Used)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [ADDITIONAL INFORMATION](#Additional-information)
+
+## Project Title
